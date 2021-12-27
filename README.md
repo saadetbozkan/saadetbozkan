@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-## I graduated from Karadeniz Technical University Computer Engineering Department. 🎓
-# I love to learn. 📚
-## I am adding here what I did while learning. 🤭
+#### I graduated from Karadeniz Technical University Computer Engineering Department. 🎓
+## I love to learn. 📚
+### I am adding here what I did while learning. 🤭
 
 <!--
 **saadetbozkan/saadetbozkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
